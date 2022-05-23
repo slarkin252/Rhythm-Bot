@@ -307,4 +307,4 @@ async def helloThere(ctx):
 bot = commands.Bot(command_prefix=commands.when_mentioned_or("!"),
                    description='Relatively simple music bot example')
 
-client.run('NjY2MjA1NTQ0NDk5MTE4MTAw.XhwyQw.blEQYv_x3h6afoCEdHwrPHMZPjk')
+client.run('*********************') #reinsert the token to run properly
